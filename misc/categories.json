@@ -1,0 +1,28 @@
+{
+	"id": 1,
+	"jsonrpc": "2.0",
+	"total": 5,
+	"result": [
+    {
+			"guid": "1d4aa3b2-c059-4fa7-a751-9bca735e4et1",
+			"thumb": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+			"title": "Bars"
+		}, {
+			"guid": "6630fb89-94d6-4fec-a1c3-c48d80b888t2",
+			"thumb": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+			"title": "Clothing"
+		}, {
+			"guid": "6630fb89-94d6-4fec-a1c3-c48d80b888t3",
+			"thumb": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+			"title": "Hotels"
+		}, {
+			"guid": "6630fb89-94d6-4fec-a1c3-c48d80b888t4",
+			"thumb": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+			"title": "Museums & Galleries"
+		}, {
+			"guid": "1d4aa3b2-c059-4fa7-a751-9bca735e4et5",
+			"thumb": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+			"title": "Restaurants"
+		}
+  ]
+}

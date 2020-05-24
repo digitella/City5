@@ -1,0 +1,522 @@
+{
+	"id": 1,
+	"jsonrpc": "2.0",
+	"total": 8,
+	"result": [
+		{
+			"guid": "98472667-a72a-4b10-a28f-62c569f7bb7e",
+			"name": "69 Colebrooke Row",
+			"featured": "false",
+			"address": "Beth Hamidrash 735 High Road, London N12 0US",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "Open since June 2009 an award winning cocktail bar located on a backstreet of Islington. Identifiable by an outdoor lantern, it is a unique cocktail bar housed in one intimate room. The interior blends 1950s Italian Café style with a Film Noir feel. The cocktail menu uses esoteric ingredients that have been developed in Drink Factory - the research and development laboratory located near to Broadway Market.",
+		  "category": "1d4aa3b2-c059-4fa7-a751-9bca735e4et1",
+		  "phoneNumber": "07540 528 593",
+		  "email": "drinks@69colebrookerow.com",
+		  "officeLocation": "51.536525, -0.101076",
+		  "facebookPage": "https://www.facebook.com/pages/69-COLEBROOKE-ROW/86554186601",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+			"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/01/catalogs.json",
+			"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/01/news.json",
+			"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/01/products.json",
+			"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/01/services.json",
+		  "openhours": {
+		    "days": [{
+		      "day": 1,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 2,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+
+		    }, {
+		      "day": 6,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "69 Colebrooke Row",
+		        "latitude" : 51.536525,
+		        "longitude" : -0.101076
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["bar", "cocktail", "live events"]
+		}, {
+					"guid": "74d812c1-f5cb-4d5d-9095-51f96e491754",
+					"name": "Artesian",
+					"featured": "false",
+					"address": "96 Euston Road, London NW1 2DB",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "Artesian is at the forefront of the sophisticated London bar scene, showcasing the city’s largest collection of rums, an extensive Champagne list, alongside an inventive menu of cocktails and blends. The team behind Artesian have helped to receive numerous accolades in the last three years.  Artesian has scooped ‘The World’s Best Bar’ for four consecutive from Drinks International Magazine.",
+		      "category": "1d4aa3b2-c059-4fa7-a751-9bca735e4et1",
+		      "phoneNumber" : "00442076360838",
+		      "email": "info@artesian-bar.co.uk",
+		      "officeLocation": "51.517535, -0.143178",
+		      "facebookPage": "https://www.facebook.com/artesianbar",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+					"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/02/catalogs.json",
+					"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/02/news.json",
+					"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/02/products.json",
+					"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/02/services.json",
+		      "openhours": {
+		        "days": [{
+		          "day": 1,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Artesian",
+		            "latitude" : 51.517535,
+		            "longitude" : -0.143178
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["bar", "cocktail", "food", "awarded"]
+		}, {
+			"guid": "0fd87af0-80f7-45ed-9f97-0f84966fef38",
+			"name": "40 Winks",
+			"featured": "false",
+			"address": "109 London Rd, Bromley BR1 3SB, UK",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "40 Winks is a legendary hotel based in hip and trendy East London. Despite our bijou size, we have achieved an almost mythical status since we opened our doors in 2009, somewhat cheekily describing ourselves as the world’s first micro boutique hotel.From the beginning, our mission was always a very simple one - to offer an antidote to the bland uniformity of most hotel chains by creating something deliriously seductive, memorable and enchanting.",
+		  "category": "6630fb89-94d6-4fec-a1c3-c48d80b888t3",
+		  "phoneNumber" : "00442077900259",
+		  "email": "reservations@40winks.org",
+		  "officeLocation": "51.521087, -0.050179",
+		  "facebookPage": "https://www.facebook.com/40winks-54219267979/",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+			"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/03/catalogs.json",
+			"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/03/news.json",
+			"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/03/products.json",
+			"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/03/services.json",
+		  "openhours": {
+		    "days": [{
+		      "day": 1,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 2,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 6,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 0,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "40 Winks",
+		        "latitude" : 51.521087,
+		        "longitude" : -0.050179
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["hotel", "east london"]
+		}, {
+					"guid": "160b085a-4d2d-4d81-ac7c-791e0117220e",
+					"name": "Great Northern Hotel",
+					"featured": "true",
+					"address": "44a Albert Rd., London NW4 2SJ",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "Great Northern Hotel is an exquisitely designed luxury boutique hotel with an extraordinary location, offering unrivalled value to the discerning traveller. We are perfectly situated just 25 metres from the Eurostar terminus in the heart of King's Cross St Pancras.",
+		      "category": "6630fb89-94d6-4fec-a1c3-c48d80b888t3",
+		      "phoneNumber" : "00442033880800",
+		      "email": "sofia.atsalou@gmail.com",
+		      "officeLocation": "51.531322, -0.124782",
+		      "facebookPage": "https://www.facebook.com/pages/Great-Northern-Hotel/402513199822725",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+					"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/04/catalogs.json",
+					"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/04/news.json",
+					"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/04/products.json",
+					"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/04/services.json",
+		      "openhours": {
+		        "days": [{
+		          "day": 1,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 4,
+		          "openAt": 1420095600000,
+		          "closeAt": 1420124400000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+
+		        }, {
+		          "day": 6,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Great Northern Hotel",
+		            "latitude" : 51.531322,
+		            "longitude" : -0.124782
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["hotel", "modern-classic"]
+		}, {
+			"guid": "5fa3c8f3-6299-436e-9756-7f935d6c96ba",
+			"name": "A little of what you fancy",
+			"featured": "true",
+			"address": "2 Ashworth Rd., London W9 1JY",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "Located in the heart of Dalston, A Little Of What You Fancy offers meals in the tradition of authentic British food and home cooking.",
+		  "category": "1d4aa3b2-c059-4fa7-a751-9bca735e4et5",
+		  "phoneNumber" : "0042072750060",
+		  "email": "sofia.atsalou@gmail.com",
+		  "officeLocation": "51.543280, -0.075861",
+		  "facebookPage": "https://www.facebook.com/alittleofwhatyoufancy464",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+			"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/05/catalogs.json",
+			"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/05/news.json",
+			"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/05/products.json",
+			"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/05/services.json",
+		  "openhours": {
+		    "days": [{
+		      "day": 2,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 6,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459891800000
+		    }, {
+		      "day": 0,
+		      "openAt": 1459850400000,
+		      "closeAt": 1459872000000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "A little of what you fancy",
+		        "latitude" : 51.543280,
+		        "longitude" :  -0.075861
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["restaurant", "french"]
+		}, {
+					"guid": "25fe2418-b261-43b2-a776-b794890d44c8",
+					"name": "Mongo Asian Food",
+					"featured": "true",
+					"address": "22 Western Rd, London E13, UK",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "The Mongo is the new healthy dietary alternative to fast food and Asian cuisine in particular. Our philosophy is described in three words: fresh ingredients, healthy diet, quick service. Combining the freshest ingredients with less cooking time (in wok), we achieve the maintenance of nutrient ingredients.",
+		      "category": "1d4aa3b2-c059-4fa7-a751-9bca735e4et5",
+		      "phoneNumber" : "00442077344545",
+		      "email": "info@mongo.co.uk",
+		      "officeLocation": "51.514411, -0.132198",
+		      "facebookPage": "https://www.facebook.com/arbutusrestaurant",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+					"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/06/catalogs.json",
+					"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/06/news.json",
+					"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/06/products.json",
+					"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/06/services.json",
+		      "openhours": {
+		        "days": [{
+		          "day": 1,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        },
+		        {
+		          "day": 1,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 3,
+		          "openAt": 1420124400000,
+		          "closeAt": 1420138800000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459895400000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459895400000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459864800000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459873800000,
+		          "closeAt": 1459891800000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Mongo Asian Food",
+		            "latitude" : 51.514411,
+		            "longitude" : -0.132198
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["asian", "healthy"]
+		}, {
+			"guid": "deb0c47a-e608-47c3-83db-e4f9d463c880",
+			"name": "H&M",
+			"featured": "false",
+			"address": "210 Euston Road, London NW1 2BE",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "H & M Hennes & Mauritz AB is a Swedish multinational retail-clothing company, known for its fast-fashion clothing for men, women, teenagers and children.",
+		  "category": "6630fb89-94d6-4fec-a1c3-c48d80b888t2",
+		  "phoneNumber" : "004402077299001",
+		  "email": "info@hm.com",
+		  "officeLocation": "51.553316, -0.074427",
+		  "facebookPage": "https://www.facebook.com/hm/",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+			"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/07/catalogs.json",
+			"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/07/news.json",
+			"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/07/products.json",
+			"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/07/services.json",
+		  "openhours": {
+		    "days": [{
+		      "day": 1,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459872000000
+		    }, {
+		      "day": 2,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459872000000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459882800000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459882800000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459882800000
+
+		    }, {
+		      "day": 6,
+		      "openAt": 1459852200000,
+		      "closeAt": 1459879200000
+		    }, {
+		      "day": 0,
+		      "openAt": 1459852200000,
+		      "closeAt": 1459875600000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "H&M",
+		        "latitude" : 51.553316,
+		        "longitude" : -0.074427
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["clothing", "casual"]
+		}, {
+					"guid": "6dddcf61-383c-47cd-a313-8f5a454d28a2",
+					"name": "The Science Museum",
+					"featured": "true",
+					"address": "5 Gordon Square, London WC1H 0AG, UK",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "The Science Museum is a major museum on Exhibition Road in South Kensington, London. It was founded in 1857 and today is one of the city's major tourist attractions, attracting 3.3 million visitors annually.",
+		      "category": "6630fb89-94d6-4fec-a1c3-c48d80b888t4",
+		      "phoneNumber" : "00442086935254",
+		      "email": "sofia.atsalou@gmail.com",
+		      "officeLocation": "51.446306, -0.085941",
+		      "facebookPage": "https://www.facebook.com/sciencemuseumlondon",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+					"catalogs": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/08/catalogs.json",
+					"news": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/08/news.json",
+					"products": "https://s3.amazonaws.com/appseed.io/mobile-apps/city-guide/assets/data/08/products.json",
+					"services": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/08/services.json",
+		      "openhours": {
+		        "days": [{
+		          "day": 2,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "The Science Museum",
+		            "latitude" : 51.446306,
+		            "longitude" : -0.085941
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["science", "museum"]
+		}
+	]
+}

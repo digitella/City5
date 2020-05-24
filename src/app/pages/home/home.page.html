@@ -1,0 +1,24 @@
+<ion-header>
+    <ion-toolbar color="primary">
+        <ion-title>{{ cityName }} Guide</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <ion-slides pager>
+        <ion-slide *ngFor="let business of businesses" (click)="goToBusinessDetail(business)">
+            <div class="ion-text-start">
+                <img [src]="business.pictures[0]">
+                <h2>{{business.name}}</h2>
+            </div>
+        </ion-slide>
+    </ion-slides>
+
+    <app-tiles
+    class="ion-text-center"
+        *ngIf="!!categories"
+        [items]="categories"
+        [isFooterNeed]="false"
+        (itemTapped)="itemTapped($event)"
+    ></app-tiles>
+</ion-content>

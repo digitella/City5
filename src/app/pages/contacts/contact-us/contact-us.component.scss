@@ -1,0 +1,14 @@
+.contact-description {
+  padding-bottom: 0;
+}
+
+.open-hours > ion-item:last-child {
+  --border-style: none;
+}
+
+ion-item {
+  div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
