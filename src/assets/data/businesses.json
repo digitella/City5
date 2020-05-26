@@ -119,7 +119,7 @@
 		        }]
 		      },
 		      "pictures": [
-		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		        "https://res.cloudinary.com/iicamp/image/upload/v1590251851/SiemReap/AngkorWhatBar.png"
 		      ],
 		      "tags": ["bar", "cocktail", "food", "awarded"]
 		}, {
